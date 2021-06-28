@@ -1,0 +1,19 @@
+{
+  "name": "actionscicddocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilocuidas/actionscicddocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilocuidas/actionscicddocker/issues"
+  },
+  "homepage": "https://github.com/camilocuidas/actionscicddocker#readme"
+}
